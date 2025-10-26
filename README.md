@@ -1,4 +1,4 @@
-# 📚 Repositori Mata Kuliah Komputasi Statistika
+# 📚 Repositori Mata Kuliah Pengantar Komputasi Statistika
 
 ![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Komputasi%20Statistika-blue)
 ![Universitas](https://img.shields.io/badge/Universitas-UNTIRTA-green)
