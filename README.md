@@ -11,7 +11,7 @@ Pusat sumber daya digital resmi untuk mata kuliah Pengantar Komputasi Statistika
 
 Ini adalah tautan terpusat untuk mengakses semua ebook dan materi referensi yang digunakan selama perkuliahan.
 
-**[Buka Kumpulan Ebook & Referensi](https://link-drive-anda-disini)**
+**[Buka Kumpulan Ebook & Referensi](https://untirtaacid-my.sharepoint.com/:f:/g/personal/ferdian_bangkit_untirta_ac_id/EnULFS5oEMhGjL0qHxoAwPkBCZJ7gHv0jcWoYOs7Hhxegw?e=OXWbL7)**
 
 ## ✨ Isi Repositori
 
